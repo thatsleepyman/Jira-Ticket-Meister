@@ -29,7 +29,12 @@ git clone https://github.com/thatsleepyman/Jira-Ticket-Meister.git
 cd Jira-Ticket-Meister
 ```
 
-3. Set up your Jira API credentials in a .env file
+3. Install the required dependencies
+```cmd
+pip install -r requirements.txt
+```
+
+4. Set up your Jira API credentials in a .env file
 
 ### Usage
 To run the script, use the following command (after configuring it correctly):
