@@ -1,4 +1,4 @@
-def create_jira_ticket(jira_project_key, Jira_priority, jira_issuetype, jira_team, jira_summary, jira_description):
+def jira_ticket_meister(jira_project_key, Jira_priority, jira_issuetype, jira_team, jira_summary, jira_description):
 # To use this function, pass the required Jira fields to this function.
 # For example;
     # jira_project_key = 'DEVOPS'
