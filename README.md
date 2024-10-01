@@ -1,6 +1,6 @@
 # Jira Ticket Meister
 
-Jira Ticket Meister is a streamlined Python application that leverages the power of the Jira API to create Jira tickets efficiently. 
+Jira Ticket Meister is a streamlined Python script that leverages the power of the Jira API to create Jira tickets efficiently. 
 
 ## Features
 
